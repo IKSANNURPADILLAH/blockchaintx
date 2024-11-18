@@ -1,6 +1,6 @@
 # Auto trx taiko s2
 
-## Repository ini dikhususkan untuk proyek airdrop `taiko s2 auto tx`.
+## Repository ini dikhususkan untuk proyek airdrop `taiko s2`.
 
 ## Cara install
 
