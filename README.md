@@ -34,11 +34,10 @@
    python taikov2.py
    ```
    - atau `python3 taikov2.py` untuk debian:
-   - 
      
-   ```bash
+   ``bash
    python3 taikov2.py
-   ```
+   ``
    
 6. Silahkan isi berapa kali Anda ingin melakukan transaksi (`refferensi harian 73 transaksi untuk mendapatkan 73k poin di ` https://trailblazers.taiko.xyz/) . Jika target transaksi telah terpenuhi maka script akan otomatis berhenti.
    ```bash
