@@ -33,7 +33,7 @@
    ```bash
    python taikov2.py
    ```
-   atau `python3 taikov2.py` untuk debian:
+   - atau `python3 taikov2.py` untuk debian:
    ```bash
    python3 taikov2.py
    ```
