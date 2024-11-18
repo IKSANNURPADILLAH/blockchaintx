@@ -28,12 +28,12 @@
    nano pvkeylist.txt
    ```
 
-5. Jalankan scrip untuk ubuntu menggunakan `python`:
+5. Jalankan scrip `python taikov2.py` untuk ubuntu:
 
    ```bash
    python taikov2.py
    ```
-   atau `python3` untuk debian
+   atau `python3 taikov2.py` untuk debian:
    ```bash
    python3 taikov2.py
    ```
