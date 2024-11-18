@@ -31,8 +31,10 @@
    ```bash
    python3 taikov2.py
    ```
-4.0 Silahkan isi berapa kali Anda ingin melakukan transaksi `(refferensi harian 73 transaksi}` . Jika target transaksi telah terpenuhi maka script akan otomatis berhenti.
-
+5. Silahkan isi berapa kali Anda ingin melakukan transaksi `(refferensi harian 73 transaksi}` . Jika target transaksi telah terpenuhi maka script akan otomatis berhenti.
+   ```bash
+   73
+   ```
 
 ## Tanks to
 `ylasgamers` https://github.comylasgamers/taikos2
