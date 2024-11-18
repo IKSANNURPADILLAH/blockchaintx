@@ -34,6 +34,7 @@
    python taikov2.py
    ```
    - atau `python3 taikov2.py` untuk debian:
+     
    ```bash
    python3 taikov2.py
    ```
@@ -44,4 +45,4 @@
    ```
 
 ## Thanks to:
-`ylasgamers` https://github.comylasgamers/taikos2
+- `ylasgamers` https://github.comylasgamers/taikos2
