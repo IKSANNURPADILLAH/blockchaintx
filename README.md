@@ -38,10 +38,10 @@
    python3 taikov2.py
    ```
    
-6. Silahkan isi berapa kali Anda ingin melakukan transaksi `(refferensi harian 73 transaksi untuk mendapatkan 73k poin di https://trailblazers.taiko.xyz/)` . Jika target transaksi telah terpenuhi maka script akan otomatis berhenti.
+6. Silahkan isi berapa kali Anda ingin melakukan transaksi (`refferensi harian 73 transaksi untuk mendapatkan 73k poin di ` https://trailblazers.taiko.xyz/) . Jika target transaksi telah terpenuhi maka script akan otomatis berhenti.
    ```bash
    73
    ```
 
-## Tanks to
+## Thanks to:
 `ylasgamers` https://github.comylasgamers/taikos2
