@@ -7,7 +7,7 @@
 1. Clone repository:
 
    ```bash
-   git clone https://github.com/IKSANNURPADILLAH/new.git
+   git clone https://github.com/IKSANNURPADILLAH/blockchaintx.git
    ```
 
 2. Masuk ke direktory:
