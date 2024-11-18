@@ -19,7 +19,7 @@
 3. Install requerements:
 
    ```bash
-   pip install requerements.txt
+   pip install -r requerements.txt
    ```
    
 4. Edit file pvkeylist.txt untuk memasukkan private key Anda (bisa menggunakan `nano` atau `vim` editor:
