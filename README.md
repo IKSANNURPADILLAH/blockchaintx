@@ -15,16 +15,21 @@
    ```bash
    cd blockchaintx
    ```
+3. Install requerements:
 
-3.0 Jalankan scrip untuk ubuntu:
+   ```bash
+   pip install requerements.txt
+   ```
+
+4.0 Jalankan scrip untuk ubuntu:
 
    ```bash
    python taikov2.py
    ```
-3.1 Jalankan scrip untuk debian:
+4.1 Jalankan scrip untuk debian:
 
    ```bash
-   python taikov2.py
+   python3 taikov2.py
    ```
 4.0 Silahkan isi berapa kali Anda ingin melakukan transaksi `(refferensi harian 73 transaksi}` . Jika target transaksi telah terpenuhi maka script akan otomatis berhenti.
 
