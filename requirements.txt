@@ -1,3 +1,2 @@
-python -m pip install pip --upgrade
-pip install requests
-pip install web3==6.20.1
+requests
+web3==6.20.1
