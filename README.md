@@ -1,6 +1,6 @@
-# auto trx taiko s2
+# Auto trx taiko s2
 
-Repository ini dikhususkan untuk proyek airdrop `taiko s2 auto tx`.
+## Repository ini dikhususkan untuk proyek airdrop `taiko s2 auto tx`.
 
 ## Cara install
 
@@ -26,6 +26,8 @@ Repository ini dikhususkan untuk proyek airdrop `taiko s2 auto tx`.
    ```bash
    python taikov2.py
    ```
-4.0 Silahkan isi berapa kali Anda ingin melakukan transaksi `(refferensi harian 73 transaksi}` , jika target transaksi telah terpenuhi maka script akan otomatis berhenti.
+4.0 Silahkan isi berapa kali Anda ingin melakukan transaksi `(refferensi harian 73 transaksi}` . Jika target transaksi telah terpenuhi maka script akan otomatis berhenti.
 
 
+## Tanks to
+`ylasgamers` https://github.comylasgamers/taikos2
