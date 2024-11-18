@@ -15,23 +15,29 @@
    ```bash
    cd blockchaintx
    ```
+   
 3. Install requerements:
 
    ```bash
    pip install requerements.txt
    ```
+   
+4. Edit file pvkeylist.txt untuk memasukkan private key Anda (bisa menggunakan `nano` atau `vim` editor:
 
-4.0 Jalankan scrip untuk ubuntu:
+   ```bash
+   nano pvkeylist.txt
+   ```
+
+5. Jalankan scrip untuk ubuntu menggunakan `python` atau `python3` untuk debian:
 
    ```bash
    python taikov2.py
    ```
-4.1 Jalankan scrip untuk debian:
-
    ```bash
    python3 taikov2.py
    ```
-5. Silahkan isi berapa kali Anda ingin melakukan transaksi `(refferensi harian 73 transaksi}` . Jika target transaksi telah terpenuhi maka script akan otomatis berhenti.
+   
+6. Silahkan isi berapa kali Anda ingin melakukan transaksi `(refferensi harian 73 transaksi untuk mendapatkan 73k poin di https://trailblazers.taiko.xyz/)` . Jika target transaksi telah terpenuhi maka script akan otomatis berhenti.
    ```bash
    73
    ```
